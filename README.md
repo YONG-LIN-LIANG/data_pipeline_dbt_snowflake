@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Portfolio%20Website%20V2&fontSize=80&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
   <a href="#features">Features</a> •
@@ -11,10 +10,10 @@
 </p>
 
 [![GitHub license](https://img.shields.io/github/license/lohitkolluri/Portfolio?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://portfolio-lohit.vercel.app)
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://yong-lin-liang.github.io/blog-client-static/#/portfolio/dataengineer)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
-<p align="center">A modern, responsive portfolio website showcasing professional experience, projects, and skills. Built with React, Vite, and Tailwind CSS, featuring smooth animations and interactive 3D elements. ✨</p>
+<p align="center">An ELT pipeline with the power of DBT & Snowflake & Airflow & CI/CD. ✨</p>
 
 </div>
 
@@ -25,10 +24,11 @@
 ```mermaid
 mindmap
   root((Portfolio Website))
-    User Interface
-      Responsive Design
-      Smooth Animations
-      Interactive 3D Elements
+    Data Warehouse
+      Snowflake
+      Database & Schema
+      Data Storage
+      Data Processing
     Sections
       About Me
       Experience
