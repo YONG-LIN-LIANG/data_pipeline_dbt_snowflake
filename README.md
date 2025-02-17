@@ -11,7 +11,6 @@
 
 [![GitHub license](https://img.shields.io/github/license/lohitkolluri/Portfolio?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://yong-lin-liang.github.io/blog-client-static/#/portfolio/dataengineer)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
 <p align="center">An ELT pipeline with the power of DBT & Snowflake & Airflow & CI/CD. ✨</p>
 
